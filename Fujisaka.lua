@@ -1,3 +1,8 @@
+--Fujisaka.lua
+--Server script written to move Fujisaka ShuttleBox in Nijinohara New Transit game along a set of predefined nodes using 
+--tweenservice, aiming to use as an alternative method to physics based methods. 
+--moveBetweenNodes() contains alteration made by ChatGPT during production phase
+
 -- Services
 local TweenService = game:GetService("TweenService")
 
